@@ -70,7 +70,8 @@ $$C_p^{ig} = A + BT + CT^2$$
 
 ## 🖼️ Screenshots
 
-*(Add a screenshot of the app here)*
+*(<img width="828" height="492" alt="image" src="https://github.com/user-attachments/assets/c515442e-808c-41a2-a78a-39f70bba8b6f" />
+)*
 
 ---
 
